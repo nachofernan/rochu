@@ -7,3 +7,8 @@
     <title>Administración</title>
 </head>
 <body>
+<div>
+    <a href="index.php">Administración</a>
+    <a href="../index.php">Volver al Blog</a>
+    <a href="entrada.php">Nueva Entrada</a>
+</div>
